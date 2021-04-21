@@ -1,3 +1,1 @@
-# Melihbdr
-
-![Visitor Count](https://profile-counter.glitch.me/{melihbodr}/count.svg)
+#![Visitor Count](https://profile-counter.glitch.me/{melihbodr}/count.svg)
