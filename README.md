@@ -1,6 +1,4 @@
-**Profile Views**
-
-![Visitor Count](https://profile-counter.glitch.me/{melihbodr}/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-melihbodr&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melihbodr&show_icons=true&theme=white)
 
@@ -10,5 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-melihbodr&color=blue)
     
 
+**Profile Views**
 
+![Visitor Count](https://profile-counter.glitch.me/{melihbodr}/count.svg)
 
