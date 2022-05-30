@@ -9,22 +9,3 @@
 
 
 
-
-
-    
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erenonal" alt="erenonal" /> </p>
-
-
-![rand](https://rand-xyz.now.sh/api/hello)
-</p>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=melihbodur&show_icons=true">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihbodur" alt="erenonal" /> </p>
-
-
-
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=melihbodur&show_icons=true">
-
-
