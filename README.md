@@ -13,5 +13,30 @@
 
     
 
+- 📜 Also I share articles on Linkedin for people who decided to go the same route as me while I was developing myself, or just for people who are curious. 
+- :eye: Looking for Python, Data Science, Machine Learning, AI, Deep Learning 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erenonal" alt="erenonal" /> </p>
+
+**Languages and Tools:** 
+
+@@ -25,11 +24,15 @@
+
+![rand](https://rand-xyz.now.sh/api/hello)
+</p>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=erenonal&show_icons=true">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erenonal" alt="erenonal" /> </p>
+
+
+
+
+[![Mail Badge](https://img.shields.io/badge/1onaleren@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1onaleren@gmail.com)](mailto:1onaleren@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1erenonal/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erenonal.jpg)
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=erenonal&show_icons=true">
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erenonal.jpg)
+
+[![Mail Badge](https://img.shields.io/badge/1onaleren@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1onaleren@gmail.com)](mailto:1onaleren@gmail.com)
 
